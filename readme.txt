@@ -6,5 +6,4 @@ Gerd?
 Hallo Gerd! 
 Was gerd ab?
 Drop it like its hot.
-Test
-TestoTest Gerd 123 
+Johnny was here! 
