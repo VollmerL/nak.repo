@@ -6,4 +6,4 @@ Gerd?
 Hallo Gerd! 
 Was gerd ab?
 Drop it like its hot.
-Johnny was here! 
+Johnny was not  here! 
